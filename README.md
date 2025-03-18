@@ -1,4 +1,4 @@
-<h1>Prohetos com alura</h1>
+<h1>Projetos com alura</h1>
 
 <h2>�� Sobre</h2>
 <p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
